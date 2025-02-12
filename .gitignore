@@ -1,2 +1,6 @@
 .DS_Store
 /_build
+/MyStuff
+/HomeworkTesting
+.sync*
+.nextcloudsync.log
